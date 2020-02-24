@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">smart-home-lights</string>
+    <string name="reset">Reset</string>
+    <string name="count">Count</string>
+    <string name="pir_2_value">PIR_2 Value</string>
+    <string name="_0">0</string>
+    <string name="pir_1_value">PIR_1 Value</string>
+    <string name="manual_mode">Manual mode</string>
+    <string name="light_1">Light 1</string>
+    <string name="light_2">Light 2</string>
+</resources>
